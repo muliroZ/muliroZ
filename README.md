@@ -10,35 +10,34 @@
 ---
 
 ## 😁 Quem sou eu  
-Olá! Eu sou Murilo (mas pode me chamar de Muliro😉), um iniciante na Engenharia de Software que tá sempre estudando novas trilhas tecnológicas. Estudo na Universidade de Pernambuco. Você pode me encontrar no Insta ([@muliro_dkl](https://www.instagram.com/muliro_dkl)) e estarei evoluindo um pouco todo dia.
+Olá! Eu sou Murilo, um iniciante na Engenharia de Software que tá sempre estudando novas trilhas tecnológicas. Estudo na Universidade de Pernambuco. Você pode me encontrar no Insta ([@muliro_dkl](https://www.instagram.com/muliro_dkl)) e estarei evoluindo um pouco todo dia.
 
 ---
 
 ## 🤷‍♂️ O que faço
-- Comecei com C++, mas hoje me aventuro no mundo maravilhoso do **Java** (e às vezes no Python também)
-- Curto desenvolver todo tipo de ideia diferente, dá uma olhada nos meus repositórios, tô sempre upando coisa nova!
-- Sempre busco aprender mais sobre boas práticas, padrões de código, frameworks e novas tecnologias
+- Comecei com C++, mas atualmente estou estudando **Java** (e às vezes Python)
+- Tenho foco no desenvolvimento Web, principalmente na parte de backend, onde busco desenvolver ideias e soluções
+- Sempre busco aprender mais sobre boas práticas, arquiteturas, padrões de código, frameworks e novas tecnologias
 
 ---
 
 ## 🧐 Projetos favoritos  
-### `Gerenciador-de-Tarefas`  
-- Desenvolvido em Python  
-- Sistema simples e prático com interface de usuário, pra gerenciar tarefas do dia a dia  
-- Mergulha em lógica, manipulação de dados e organização com clareza
+### `CodeSV`  
+- Desenvolvido em Java + Spring Boot  
+- Site completo, feito para usuários compartilharem seus trechos de código com estilos personalizados
+- Foco em organização de projetos para deploy, conteinerização com docker e uso de Thymeleaf
 
----
-
-## 😶‍🌫️ O que vem por aí  
-- Projetos com front-end (HTML, CSS, JavaScript — quem sabe um React no meio?)  
-- APIs REST próprias, integrando backend e frontend com estilo  
-- Participação ativa em comunidade open-source pra trocar conhecimento e crescer junto
+### `DevFit`
+- Desenvolvido em Java + Spring Boot
+- Site de academia com autenticação JWT, usuários e roles, e gestão de negócio, com dashboard de gestor
+- Foco na lógica, conexão com banco de dados e autenticação de usuários
 
 ---
 
 ## 📫 Minhas redes  
 - **GitHub**: [muliroZ](https://github.com/muliroZ)  
-- **Instagram**: [@muliro_dkl](https://www.instagram.com/muliro_dkl)  
-- Gosto de compartilhar aprendizados e, claro, ideias doidas que funcionam!
+- **Instagram**: [@muliro_dkl](https://www.instagram.com/muliro_dkl)
+- **LinkedIn**: [Murilo Andrade](https://www.linkedin.com/in/murilo-andrade-17648b353/)
+- Gosto de compartilhar aprendizados e, claro, ideias que funcionam!
 
 ---
